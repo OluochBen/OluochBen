@@ -102,7 +102,8 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
 
- - @[BentheDohian](https://x.com/BentheDohian) - oluochbenard7@egmail.com
+ - Twitter: [BentheDohian](https://x.com/BentheDohian)
+ - Email: oluochbenard7@egmail.com
 
 -   Project Link: https://github.com/Moringa-SDF-PT10/poesy-ben-oluoch
 
