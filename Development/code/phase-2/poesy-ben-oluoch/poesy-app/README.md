@@ -104,5 +104,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
  - @[BentheDohian](https://x.com/BentheDohian) - oluochbenard7@egmail.com
 
-Project Link: https://github.com/Moringa-SDF-PT10/poesy-ben-oluoch
+-   Project Link: https://github.com/Moringa-SDF-PT10/poesy-ben-oluoch
 
