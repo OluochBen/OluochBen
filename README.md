@@ -23,6 +23,7 @@ Welcome to my GitHub space! 🚀 Here’s a little about me:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=OluochBen&color=blue)
 
 ## 📊 GitHub Stats
 <p align="center">
