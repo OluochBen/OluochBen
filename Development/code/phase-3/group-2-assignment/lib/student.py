@@ -7,7 +7,7 @@ class Student(Person):
         self.courses = []
         self.mode_of_study = mode_of_study
 
-    def enrol(self, course):
+    def enrol(self,course):
         self.courses.append(course)
 
     def display_info(self):
