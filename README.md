@@ -7,7 +7,6 @@ Welcome to my GitHub space! 🚀 Here’s a little about me:
 - 🔍 Debugging & optimizing **frontend performance**
 - 💡 Passionate about **clean code & scalable architectures**
 - 📫 Reach me at **oluochbenard7@gmail.com**
-- ⚡ Fun fact: **I enjoy solving the toughest bugs!**
 
 ## 🛠 Tech Toolbox
 <p align="left">
