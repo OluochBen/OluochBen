@@ -1,12 +1,21 @@
-# 👋 Hey there, I'm Benard Oluoch!
+👋 Hello World!
 
-Welcome to my GitHub space! 🚀 Here’s a little about me:
+Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
 
-- 🔧 Building **Vite-powered Dashboard**
-- 🌱 Exploring **React, Vite, and API integrations**
-- 🔍 Debugging & optimizing **frontend performance**
-- 💡 Passionate about **clean code & scalable architectures**
-- 📫 Reach me at **oluochbenard7@gmail.com**
+🚀 Current Stack & Adventures:
+
+⚡ Building high-performance dashboards with Vite + React
+🐍 Writing clean Python for automation, data tasks & backend experiments
+🌱 Deep diving into full-stack development (React + FastAPI/Flask)
+🔍 Optimizing web performance and debugging like a code detective
+✨ Passionate about scalable architecture and developer experience
+📫 Let's Connect:
+📧 oluochbenard7@gmail.com
+🐦 [https://x.com/Ben_Oluoch1]
+💼 [https://www.linkedin.com/in/benard-oluoch/]
+
+python
+print("Let's build something meaningful together!") 
 
 ## 🛠 Tech Toolbox
 <p align="left">
@@ -36,11 +45,3 @@ Welcome to my GitHub space! 🚀 Here’s a little about me:
   <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
 </p>
 
-## 🎯 Current Focus
-- 🚀 Enhancing project workflows
-- 🔍 Mastering API integrations
-- 🔧 Optimizing development environments
-
----
-
-💡 *Want to collaborate? Let’s connect!* 😎
