@@ -41,7 +41,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluochBen&layout=compact&langs_count=20&theme=radical" />
 
 </p>
 
