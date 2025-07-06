@@ -1,6 +1,6 @@
-👋 Hello
+# 👋 Hello
 
-Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
+## Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
 
 ## 🚀 Current Stack & Adventures
 
@@ -41,7 +41,8 @@ Welcome to my coding playground - where JavaScript meets Python, and ideas becom
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluochBen&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluochBen&layout=compact&langs_count=20&theme=radical" />
+
 </p>
 
 ## 📫 Let's Connect
