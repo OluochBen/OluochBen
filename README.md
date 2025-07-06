@@ -1,4 +1,4 @@
-👋 Hello World!
+👋 Hello
 
 Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
 
@@ -6,7 +6,7 @@ Welcome to my coding playground - where JavaScript meets Python, and ideas becom
 
 - ⚡ Building high-performance dashboards with Vite + React  
 - 🐍 Writing clean Python for automation, data tasks & backend experiments  
-- 🌱 Deep diving into full-stack development (React + FastAPI/Flask)  
+- 🌱 Deep diving into full-stack development (React + Flask)  
 - 🔍 Optimizing web performance and debugging like a code detective  
 - ✨ Passionate about scalable architecture and developer experience  
 
