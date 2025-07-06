@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Benard
 
-## Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
+### Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
 
-## 🚀 Current Stack & Adventures
+### 🚀 Current Stack & Adventures
 
 - ⚡ Building high-performance dashboards with Vite + React  
 - 🐍 Writing clean Python for automation, data tasks & backend experiments  
