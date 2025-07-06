@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋 Hello!
 
 ## Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
 
