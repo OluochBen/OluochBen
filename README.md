@@ -24,10 +24,14 @@
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sqlite-#0F80CC?style=flat&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
+
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
