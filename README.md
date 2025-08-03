@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sqlite-#0F80CC?style=flat&logo=SQL&logoColor=white" />
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
