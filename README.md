@@ -56,4 +56,4 @@
 💼 [LinkedIn](https://www.linkedin.com/in/benard-oluoch/)  
 
 ```python
-print("Let's build something meaningful together!")
+print("Let's build something meaningful!")
