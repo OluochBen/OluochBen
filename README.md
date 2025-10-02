@@ -51,9 +51,7 @@
 
 ## 📫 Let's Connect
 
-📧 oluochbenard7@gmail.com  
-🐦 [Twitter](https://x.com/Ben_Oluoch1)  
-💼 [LinkedIn](https://www.linkedin.com/in/benard-oluoch/)  
+📧 oluochbenard7@gmail.com   
 
 ```python
 print("Let's build something meaningful!")
