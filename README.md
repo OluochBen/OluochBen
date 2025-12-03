@@ -8,8 +8,7 @@
 
 - ⚡ **High-performance dashboards** with Vite + React  
 - 🐍 **Clean Python workflows** for automation, data tasks & backend experiments  
-- 🌱 Exploring **full-stack development** with React + Flask  
-- 🔍 **Web performance detective** — debugging and optimizing like a pro  
+- 🌱 Exploring **full-stack development** with React + Flask   
 - ✨ Building **scalable architecture** with a focus on developer experience  
 
 ---
@@ -59,8 +58,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OluochBen&theme=radical" />
+</p>
+
 
 ---
 
@@ -68,6 +74,12 @@
 
 📧 **oluochbenard7@gmail.com**  
 
-```python
-print("Let's build something meaningful!")
+<p align="left">
+  <a href="https://x.com/Ben_Oluoch1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/benard-oluoch/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
 
