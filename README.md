@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Benard
 
-### A visionary builder blending code, culture, and creativity.  
-
 I'm a **full-stack developer** and **graphic & branding designer** passionate about crafting scalable systems, intuitive dashboards, and meaningful digital experiences. My journey bridges **JavaScript** and **Python**, where I experiment with automation, backend design, and performance-driven frontends — while also designing **visual identities** that bring stories to life.  
 
 🚀 Current focus:  
