@@ -1,16 +1,29 @@
-# 👋 Hello! I'm Benard
+# 👋 Hello! I'm Benard  
 
-### Welcome to my coding playground - where JavaScript meets Python, and ideas become digital reality.
+### Welcome to my coding playground — where **JavaScript meets Python**, and ideas transform into digital reality.  
 
-### 🚀 Current Stack & Adventures
+---
 
-- ⚡ Building high-performance dashboards with Vite + React  
-- 🐍 Writing clean Python for automation, data tasks & backend experiments  
-- 🌱 Deep diving into full-stack development (React + Flask)  
-- 🔍 Optimizing web performance and debugging like a code detective  
-- ✨ Passionate about scalable architecture and developer experience  
+## 🚀 Current Stack & Adventures  
 
-## 🛠 Tech Toolbox
+- ⚡ **High-performance dashboards** with Vite + React  
+- 🐍 **Clean Python workflows** for automation, data tasks & backend experiments  
+- 🌱 Exploring **full-stack development** with React + Flask  
+- 🔍 **Web performance detective** — debugging and optimizing like a pro  
+- ✨ Building **scalable architecture** with a focus on developer experience  
+
+---
+
+## 🌟 Featured Projects  
+
+1. [Landing Page Template](https://cleanlandingpro.netlify.app/) — sleek, responsive starter for modern sites  
+2. [MoringaDesk](https://moringadesk-gcvu.onrender.com/) — collaborative platform for sudents 
+3. [Trivia](https://moringa-sdf-pt10.github.io/ben-oluoch-trivia-project/) — fun, interactive quiz game built with JavaScript  
+
+
+---
+
+## 🛠 Tech Toolbox  
 
 <p align="left">
   <!-- Frontend -->
@@ -32,7 +45,6 @@
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
 
-  
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -42,16 +54,20 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
-
 </p>
 
-## 📫 Let's Connect
+---
 
-📧 oluochbenard7@gmail.com   
+## 📫 Let's Connect  
+
+📧 **oluochbenard7@gmail.com**  
 
 ```python
 print("Let's build something meaningful!")
+
