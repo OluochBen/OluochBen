@@ -2,16 +2,16 @@
 
 I'm a **full-stack developer** and **graphic & branding designer** passionate about crafting scalable systems, intuitive dashboards, and meaningful digital experiences. My journey bridges **JavaScript** and **Python**, where I experiment with automation, backend design, and performance-driven frontends — while also designing **visual identities** that bring stories to life.  
 
-🚀 Current focus:  
+### Current focus:  
 - Building **high-performance dashboards** with Vite + React  
 - Designing **clean Python backends** with Flask & FastAPI  
 - Exploring **generative art workflows** inspired by African motifs for Fiti Prints  
 - Architecting **scalable storefronts** (Shopify + Gatsby) for premium collectibles  
 - Creating **branding systems** and **graphic design assets** for projects and products  
 
-🌍 Beyond code, I’m driven by cultural storytelling — creating **limited edition generative art** that connects African heritage with modern technology.  
+Beyond code, I’m driven by cultural storytelling — creating **limited edition generative art** that connects African heritage with modern technology.  
 
-💡 I thrive on:  
+### I thrive on:  
 - **Scalable architecture** & developer experience  
 - **Workflow automation** & technical translation  
 - **Creative coding** with SVGs, plotters, and generative design  
@@ -19,26 +19,24 @@ I'm a **full-stack developer** and **graphic & branding designer** passionate ab
 
 ---
 
-## 🚀 Current Stack & Adventures  
+### Current Stack & Adventures  
 
-- ⚡ **High-performance dashboards** with Vite + React  
-- 🐍 **Clean Python workflows** for automation, data tasks & backend experiments  
-- 🌱 Exploring **full-stack development** with React + Flask  
-- 🔍 **Web performance detective** — debugging and optimizing like a pro  
-- ✨ Building **scalable architecture** with a focus on developer experience  
+- **High-performance dashboards** with Vite + React  
+- **Clean Python workflows** for automation, data tasks & backend experiments  
+- Exploring **full-stack development** with React + Flask  
+- Building **scalable architecture** with a focus on developer experience  
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 1. [Landing Page Template](https://cleanlandingpro.netlify.app/) — sleek, responsive starter for modern sites  
 2. [MoringaDesk](https://moringadesk-gcvu.onrender.com/) — productivity-focused web app for task management  
 3. [Trivia](https://moringa-sdf-pt10.github.io/ben-oluoch-trivia-project/) — fun, interactive quiz game built with JavaScript  
-4. More exciting builds coming soon... 🚧  
 
 ---
 
-## 🛠 Tech Toolbox  
+##  Tech Toolbox  
 
 <p align="left">
   <!-- Frontend -->
@@ -71,7 +69,7 @@ I'm a **full-stack developer** and **graphic & branding designer** passionate ab
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <!-- Main Stats -->
@@ -85,7 +83,7 @@ I'm a **full-stack developer** and **graphic & branding designer** passionate ab
 
 ---
 
-## 📫 Let's Connect  
+## Let's Connect  
 
 📧 **oluochbenard7@gmail.com**  
 
@@ -97,7 +95,4 @@ I'm a **full-stack developer** and **graphic & branding designer** passionate ab
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
-
-```python
-print("Let's build something meaningful together!")
 
