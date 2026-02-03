@@ -1,4 +1,4 @@
-# Benard Oluoch
+# Hi, I'm Benard 👋
 
 Full-stack developer building scalable, high-performance web applications with **JavaScript** and **Python**.
 
