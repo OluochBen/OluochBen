@@ -52,18 +52,6 @@ I focus on clean architecture, performance-driven frontends, reliable backends, 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OluochBen&theme=radical" />
-</p>
-
----
-
 ## Let’s Connect
 
 📧 **oluochbenard7@gmail.com**  
