@@ -1,98 +1,100 @@
-# 👋 Hello! I'm Benard
+# Benard Oluoch
 
-I'm a **full-stack developer** and **graphic & branding designer** passionate about crafting scalable systems, intuitive dashboards, and meaningful digital experiences. My journey bridges **JavaScript** and **Python**, where I experiment with automation, backend design, and performance-driven frontends — while also designing **visual identities** that bring stories to life.  
+Full-stack developer building scalable, high-performance web applications with **JavaScript** and **Python**.
 
-### Current focus:  
-- Building **high-performance dashboards** with Vite + React  
-- Designing **clean Python backends** with Flask & FastAPI  
-- Exploring **generative art workflows** inspired by African motifs for Fiti Prints  
-- Architecting **scalable storefronts** (Shopify + Gatsby) for premium collectibles  
-- Creating **branding systems** and **graphic design assets** for projects and products  
-
-Beyond code, I’m driven by cultural storytelling — creating **limited edition generative art** that connects African heritage with modern technology.  
-
-### I thrive on:  
-- **Scalable architecture** & developer experience  
-- **Workflow automation** & technical translation  
-- **Creative coding** with SVGs, plotters, and generative design  
-- **Brand identity design** & visual storytelling  
+I focus on clean architecture, performance-driven frontends, reliable backends, and practical tools that solve real problems.
 
 ---
 
-### Current Stack & Adventures  
+## Featured Projects
 
-- **High-performance dashboards** with Vite + React  
-- **Clean Python workflows** for automation, data tasks & backend experiments  
-- Exploring **full-stack development** with React + Flask  
-- Building **scalable architecture** with a focus on developer experience  
-
----
-
-## Featured Projects  
-
-1. [Landing Page Template](https://cleanlandingpro.netlify.app/) — sleek, responsive starter for modern sites  
-2. [MoringaDesk](https://moringadesk-gcvu.onrender.com/) — productivity-focused web app for task management  
-3. [Trivia](https://moringa-sdf-pt10.github.io/ben-oluoch-trivia-project/) — fun, interactive quiz game built with JavaScript  
+### 🔹 Snap Landing Page  
+🔗 https://oluochben.github.io/snap/  
+Refined one-page landing experience inspired by a Frontend Mentor challenge. Includes a responsive hero, anchored sections (Features, Company, Careers, About), leadership profiles with photos, testimonials, blog cards, and a footer with social links.
 
 ---
 
-##  Tech Toolbox  
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-</p>
+### 🔹 Digitalbank Landing Page  
+🔗 https://oluochben.github.io/digitalbank-landing-page/  
+Responsive Frontend Mentor project featuring a sticky navigation with mobile menu, theme toggle, hero section, features, articles, pricing, testimonials, FAQ, contact form with validation, invite modal, and an embedded Nairobi map. Built with semantic HTML, CSS (Flexbox/Grid), and vanilla JavaScript.
 
 ---
 
-## GitHub Stats  
+### 🔹 CSV Cleaner  
+🔗 https://csv-cleaner-sigma.vercel.app/  
+Web utility for cleaning CSV files. Upload a CSV to clean headers, trim cells, drop empty columns, remove duplicates, and optionally normalize date-like columns. Cleaned files can be downloaded instantly, with preview stats returned via response headers and displayed in the UI.
+
+---
+
+### 🔹 Browser Extensions Manager UI  
+🔗 https://oluochben.github.io/browser-extensions-manager-ui/  
+Clean, responsive UI for managing browser extensions, built as a frontend-focused interface challenge with attention to layout, interaction states, and usability.
+
+---
+
+### 🔹 Landing Page Template  
+🔗 https://cleanlandingpro.netlify.app/  
+Sleek, responsive landing page starter template designed for modern websites and quick project launches.
+
+---
+
+### 🔹 MoringaDesk  
+🔗 https://moringadesk-gcvu.onrender.com/  
+Productivity-focused web application for task management, built to explore full-stack workflows and user-focused features.
+
+---
+
+### 🔹 Trivia Game  
+🔗 https://moringa-sdf-pt10.github.io/ben-oluoch-trivia-project/  
+Interactive quiz game built with JavaScript, focusing on user interaction, game logic, and dynamic UI updates.
+
+---
+
+### 🔹 QR Code Component  
+🔗 https://oluochben.github.io/qr_code_component/  
+Simple, responsive QR code component built as a Frontend Mentor challenge, emphasizing clean layout and accessibility.
+
+---
+
+## Tech Toolbox
+
+**Frontend**
+- React, Vite, Next.js  
+- JavaScript, TypeScript  
+- HTML5, CSS3 (Flexbox & Grid)
+
+**Backend**
+- Python  
+- FastAPI, Flask  
+- Node.js  
+- PostgreSQL, SQLAlchemy  
+- REST APIs, OpenAPI
+
+**Tools & Platforms**
+- Git, GitHub  
+- Axios  
+- Firebase  
+- Vercel, Netlify
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=OluochBen&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OluochBen&theme=radical" />
 </p>
 
 ---
 
-## Let's Connect  
+## Let’s Connect
 
 📧 **oluochbenard7@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/benard-oluoch/)
 
-<p align="left">
-  <a href="https://x.com/Ben_Oluoch1" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/benard-oluoch/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-</p>
+---
 
+⭐ If you find my projects useful, feel free to star the repositories or reach out to collaborate.
