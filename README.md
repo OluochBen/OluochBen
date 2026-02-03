@@ -8,73 +8,47 @@ I focus on clean architecture, performance-driven frontends, reliable backends, 
 
 ## Featured Projects
 
-### 🔹 Snap Landing Page  
-🔗 https://oluochben.github.io/snap/  
-Refined one-page landing experience inspired by a Frontend Mentor challenge. Includes a responsive hero, anchored sections (Features, Company, Careers, About), leadership profiles with photos, testimonials, blog cards, and a footer with social links.
-
----
-
-### 🔹 Digitalbank Landing Page  
-🔗 https://oluochben.github.io/digitalbank-landing-page/  
-Responsive Frontend Mentor project featuring a sticky navigation with mobile menu, theme toggle, hero section, features, articles, pricing, testimonials, FAQ, contact form with validation, invite modal, and an embedded Nairobi map. Built with semantic HTML, CSS (Flexbox/Grid), and vanilla JavaScript.
-
----
-
-### 🔹 CSV Cleaner  
-🔗 https://csv-cleaner-sigma.vercel.app/  
-Web utility for cleaning CSV files. Upload a CSV to clean headers, trim cells, drop empty columns, remove duplicates, and optionally normalize date-like columns. Cleaned files can be downloaded instantly, with preview stats returned via response headers and displayed in the UI.
-
----
-
-### 🔹 Browser Extensions Manager UI  
-🔗 https://oluochben.github.io/browser-extensions-manager-ui/  
-Clean, responsive UI for managing browser extensions, built as a frontend-focused interface challenge with attention to layout, interaction states, and usability.
-
----
-
-### 🔹 Landing Page Template  
-🔗 https://cleanlandingpro.netlify.app/  
-Sleek, responsive landing page starter template designed for modern websites and quick project launches.
-
----
-
-### 🔹 MoringaDesk  
-🔗 https://moringadesk-gcvu.onrender.com/  
-Productivity-focused web application for task management, built to explore full-stack workflows and user-focused features.
-
----
-
-### 🔹 Trivia Game  
-🔗 https://moringa-sdf-pt10.github.io/ben-oluoch-trivia-project/  
-Interactive quiz game built with JavaScript, focusing on user interaction, game logic, and dynamic UI updates.
-
----
-
-### 🔹 QR Code Component  
-🔗 https://oluochben.github.io/qr_code_component/  
-Simple, responsive QR code component built as a Frontend Mentor challenge, emphasizing clean layout and accessibility.
+- **[Snap Landing Page](https://oluochben.github.io/snap/)** — Refined one-page landing experience with responsive sections, leadership profiles, testimonials, and blog cards.  
+- **[Digitalbank Landing Page](https://oluochben.github.io/digitalbank-landing-page/)** — Responsive landing page with sticky navigation, mobile menu, theme toggle, pricing, testimonials, forms, modals, and map integration.  
+- **[CSV Cleaner](https://csv-cleaner-sigma.vercel.app/)** — Web utility for cleaning CSV files: normalize headers, trim cells, remove duplicates, drop empty columns, and download cleaned data.  
+- **[Browser Extensions Manager UI](https://oluochben.github.io/browser-extensions-manager-ui/)** — Clean, responsive interface for managing browser extensions, focused on usability and layout.  
+- **[Landing Page Template](https://cleanlandingpro.netlify.app/)** — Sleek, responsive starter template for modern marketing websites.  
+- **[MoringaDesk](https://moringadesk-gcvu.onrender.com/)** — Productivity-focused task management web application.  
+- **[Trivia Game](https://moringa-sdf-pt10.github.io/ben-oluoch-trivia-project/)** — Interactive JavaScript quiz game with dynamic UI updates.  
+- **[QR Code Component](https://oluochben.github.io/qr_code_component/)** — Simple, responsive QR code component built as a Frontend Mentor challenge.
 
 ---
 
 ## Tech Toolbox
 
-**Frontend**
-- React, Vite, Next.js  
-- JavaScript, TypeScript  
-- HTML5, CSS3 (Flexbox & Grid)
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
-**Backend**
-- Python  
-- FastAPI, Flask  
-- Node.js  
-- PostgreSQL, SQLAlchemy  
-- REST APIs, OpenAPI
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
 
-**Tools & Platforms**
-- Git, GitHub  
-- Axios  
-- Firebase  
-- Vercel, Netlify
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
@@ -97,4 +71,4 @@ Simple, responsive QR code component built as a Frontend Mentor challenge, empha
 
 ---
 
-⭐ If you find my projects useful, feel free to star the repositories or reach out to collaborate.
+⭐ If you find my work useful, feel free to star a repo or reach out to collaborate.
