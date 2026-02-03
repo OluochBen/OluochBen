@@ -1,6 +1,6 @@
 # Hi, I'm Benard 👋
 
-Full-stack developer building scalable, high-performance web applications with **JavaScript** and **Python**.
+Full-stack developer building scalable, high-performance web applications.
 
 I focus on clean architecture, performance-driven frontends, reliable backends, and practical tools that solve real problems.
 
