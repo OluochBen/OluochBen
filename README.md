@@ -55,7 +55,6 @@ I focus on clean architecture, performance-driven frontends, reliable backends, 
 ## Let’s Connect
 
 📧 **oluochbenard7@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/benard-oluoch/)
 
 ---
 
