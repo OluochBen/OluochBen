@@ -51,6 +51,6 @@
 <text x="390" y="477" fill="#8b949e" font-size="11">Creative by Design. Powered by Code.</text><text x="390" y="509" fill="#58a6ff">─ GitHub Stats</text><path d="M515 505H812" stroke="#484f58"/>
 <text x="390" y="532" xml:space="preserve"><tspan fill="#ffa657">Public repos: </tspan><tspan fill="#484f58">.................................. </tspan><tspan fill="#c9d1d9">66</tspan></text>
 <text x="390" y="553" xml:space="preserve"><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.......................... </tspan><tspan fill="#c9d1d9">2 · Followers: 10</tspan></text>
-<text x="22" y="558" fill="#484f58" font-size="10">Stats snapshot · 18 Oct 2026</text><text x="390" y="574" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">1,905</tspan></text><text x="390" y="595" xml:space="preserve"><tspan fill="#ffa657">Source lines: </tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#c9d1d9">114,238</tspan></text>
-<text x="390" y="618" fill="#484f58" font-size="9">Source: public non-forks + private repos · Incl. comments</text>
-<text x="390" y="633" fill="#484f58" font-size="9">Commits: owned repos, deduplicated · 18 Oct 2026</text></svg>
+<text x="390" y="574" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">1,905</tspan></text><text x="390" y="595" xml:space="preserve"><tspan fill="#ffa657">Source lines: </tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#c9d1d9">114,238</tspan></text>
+
+</svg>
