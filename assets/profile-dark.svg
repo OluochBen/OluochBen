@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">Benard Oluoch — Developer and Brand Designer</title><desc id="desc">Kenyan full-stack developer and brand designer based in Qatar, building StreetCreator and Splashmax Creative.</desc>
+<rect x="1" y="1" width="998" height="518" rx="16" fill="#0d1117" stroke="#30363d"/>
+<g fill="#8b949e"><circle cx="28" cy="28" r="5"/><circle cx="47" cy="28" r="5"/><circle cx="66" cy="28" r="5"/></g>
+<text x="92" y="33" fill="#8b949e" font-family="monospace" font-size="13">oluochben / profile</text>
+<path d="M1 52H999M326 80V454" stroke="#30363d"/>
+<rect x="49" y="108" width="228" height="228" rx="30" fill="#7ee787" opacity=".08"/>
+<text x="163" y="254" text-anchor="middle" fill="#7ee787" font-family="Arial, sans-serif" font-size="100" font-weight="700" letter-spacing="-8">BO</text>
+<text x="163" y="380" text-anchor="middle" fill="#e6edf3" font-family="Arial, sans-serif" font-size="20" font-weight="700">DESIGN × CODE</text>
+<text x="163" y="408" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">From Kenya. Building for Africa.</text>
+<text x="360" y="105" fill="#7ee787" font-family="monospace" font-size="20" font-weight="700">oluochben@github</text>
+<text x="360" y="135" fill="#8b949e" font-family="monospace" font-size="14">$ whoami</text>
+<text x="360" y="178" fill="#7ee787" font-family="monospace" font-size="14">Name</text><text x="470" y="178" fill="#e6edf3" font-family="monospace" font-size="14">Benard Oluoch</text>
+<text x="360" y="210" fill="#7ee787" font-family="monospace" font-size="14">Role</text><text x="470" y="210" fill="#e6edf3" font-family="monospace" font-size="14">Full-stack Developer / Brand Designer</text>
+<text x="360" y="242" fill="#7ee787" font-family="monospace" font-size="14">Base</text><text x="470" y="242" fill="#e6edf3" font-family="monospace" font-size="14">Kenyan · Based in Qatar</text>
+<text x="360" y="274" fill="#7ee787" font-family="monospace" font-size="14">Building</text><text x="470" y="274" fill="#e6edf3" font-family="monospace" font-size="14">StreetCreator + Splashmax Creative</text>
+<text x="360" y="306" fill="#7ee787" font-family="monospace" font-size="14">Frontend</text><text x="470" y="306" fill="#e6edf3" font-family="monospace" font-size="14">React · TypeScript · Vite · Tailwind</text>
+<text x="360" y="338" fill="#7ee787" font-family="monospace" font-size="14">Backend</text><text x="470" y="338" fill="#e6edf3" font-family="monospace" font-size="14">Python · Flask · PostgreSQL</text>
+<text x="360" y="370" fill="#7ee787" font-family="monospace" font-size="14">Tools</text><text x="470" y="370" fill="#e6edf3" font-family="monospace" font-size="14">Git · Figma · Illustrator</text>
+<text x="360" y="402" fill="#7ee787" font-family="monospace" font-size="14">Focus</text><text x="470" y="402" fill="#e6edf3" font-family="monospace" font-size="14">Useful products. Thoughtful design.</text>
+<path d="M360 447H955" stroke="#30363d"/>
+<text x="360" y="477" fill="#8b949e" font-family="monospace" font-size="13">Creative by Design. Powered by Code.</text>
+</svg>
