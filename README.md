@@ -6,7 +6,7 @@
 
 # Hi, I'm Ben 👋
 
-I bring **brand design and full-stack development** together to build useful digital products. I'm Kenyan, based in Qatar, and the founder of **Splashmax Creative Ltd**.
+I bring **brand design and full-stack development** together to build useful digital products. I'm Kenyan and the founder of **Splashmax Creative Ltd**.
 
 My work spans brand identities, packaging, websites, and web applications — from how a product looks to how it works.
 
