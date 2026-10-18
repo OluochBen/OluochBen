@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="580" viewBox="0 0 840 580" font-family="Consolas, Menlo, monospace" font-size="12.5">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="650" viewBox="0 0 840 650" font-family="Consolas, Menlo, monospace" font-size="12.5">
 <title>Benard Oluoch — developer and brand designer</title>
-<rect x=".5" y=".5" width="839" height="579" rx="10" fill="#ffffff" stroke="#afb8c1"/>
+<rect x=".5" y=".5" width="839" height="649" rx="10" fill="#ffffff" stroke="#afb8c1"/>
 <text x="22" y="76" fill="#57606a" xml:space="preserve">                                          </text>
 <text x="22" y="88.5" fill="#57606a" xml:space="preserve">                                          </text>
 <text x="22" y="101" fill="#57606a" xml:space="preserve">                                          </text>
@@ -51,4 +51,6 @@
 <text x="390" y="477" fill="#57606a" font-size="11">Creative by Design. Powered by Code.</text><text x="390" y="509" fill="#0969da">─ GitHub Stats</text><path d="M515 505H812" stroke="#afb8c1"/>
 <text x="390" y="532" xml:space="preserve"><tspan fill="#953800">Public repos: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">66</tspan></text>
 <text x="390" y="553" xml:space="preserve"><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">.......................... </tspan><tspan fill="#24292f">2 · Followers: 10</tspan></text>
-<text x="22" y="558" fill="#afb8c1" font-size="10">Stats snapshot · 18 Oct 2026</text></svg>
+<text x="22" y="558" fill="#afb8c1" font-size="10">Stats snapshot · 18 Oct 2026</text><text x="390" y="574" xml:space="preserve"><tspan fill="#953800">Public commits: </tspan><tspan fill="#afb8c1">............................... </tspan><tspan fill="#24292f">411</tspan></text><text x="390" y="595" xml:space="preserve"><tspan fill="#953800">Public source lines: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">26,120</tspan></text>
+<text x="390" y="618" fill="#afb8c1" font-size="9">Non-fork repos · Nonblank source lines incl. comments</text>
+<text x="390" y="633" fill="#afb8c1" font-size="9">Private repos excluded · Snapshot: 18 Oct 2026</text></svg>
