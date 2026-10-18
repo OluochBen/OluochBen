@@ -31,6 +31,7 @@
 <text x="22" y="413.5" fill="#57606a" xml:space="preserve">                                          </text>
 <text x="22" y="426" fill="#57606a" xml:space="preserve">                                          </text>
 <text x="390" y="45" fill="#0969da">─ oluochben@github</text><path d="M543 41H812" stroke="#afb8c1"/>
+<text x="390" y="66" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">............................... </tspan><tspan fill="#24292f">Windows, macOS</tspan></text>
 <text x="390" y="87" xml:space="preserve"><tspan fill="#953800">Name: </tspan><tspan fill="#afb8c1">............................... </tspan><tspan fill="#24292f">Benard Oluoch</tspan></text>
 <text x="390" y="108" xml:space="preserve"><tspan fill="#953800">Role: </tspan><tspan fill="#afb8c1">........................ </tspan><tspan fill="#24292f">Full-stack Developer</tspan></text>
 <text x="390" y="129" xml:space="preserve"><tspan fill="#953800">Design: </tspan><tspan fill="#afb8c1">................ </tspan><tspan fill="#24292f">Brand &amp; Packaging Designer</tspan></text>
